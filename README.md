@@ -3,7 +3,5 @@
 Olá bem vindo ao meu livro de receitas :hand:
 
 * strogonoff de frango
-
-* Pavê --> não gosto de pavê
-
-  
+* Pavê
+* Bolo de Cenoura
